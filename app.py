@@ -218,7 +218,7 @@ with tab5:
     lights = latest_units * 0.2
 
     st.write(f"AC: {int(ac)} | Fan: {int(fan)} | Lights: {int(lights)}")
-=======
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
