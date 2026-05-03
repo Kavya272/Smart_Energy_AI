@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -394,4 +393,3 @@ with tab5:
     lights = latest_units * 0.2
 
     st.write(f"AC: {int(ac)} units | Fan: {int(fan)} | Lights: {int(lights)}")
->>>>>>> 02482d03b534b0270a7c153c275d8a3b96ff88e5
